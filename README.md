@@ -17,14 +17,17 @@ Econômicos: Carros compactos e eficientes, ideais para viagens urbanas e curtas
 SUVs e 4x4: Para quem precisa de mais conforto, espaço ou planeja enfrentar terrenos mais difíceis.
 Luxo: Carros de alto padrão para quem deseja uma experiência de direção mais sofisticada.
 Utilitários: Veículos maiores, perfeitos para mudanças, viagens em grupo ou para quem precisa de mais espaço.
+
+
 🏙️ Locais de Retirada
 A Drive Go oferece pontos de retirada em diversas cidades e aeroportos, facilitando o acesso aos veículos em qualquer lugar que você esteja.
-
 Exemplos de locais de retirada:
 São Paulo - Aeroporto Internacional de Guarulhos
 Rio de Janeiro - Barra da Tijuca
 Belo Horizonte - Savassi
 Salvador - Aeroporto de Salvador
+
+
 💻 Como Funciona?
 Acesse o site ou app: Cadastre-se e faça login.
 Escolha seu veículo: Navegue pelas opções de carros e selecione o que melhor atende às suas necessidades.
