@@ -10,6 +10,8 @@ Escolha de Veículos: Selecione o veículo de acordo com suas preferências, com
 Aluguel Personalizado: Defina o período de locação e a localização de retirada e devolução.
 Pagamento Seguro: Pagamento com cartão de crédito, boleto bancário ou outros métodos.
 Histórico de Locação: Acesse seu histórico de aluguéis, com detalhes de veículos, datas e valores.
+
+
 🚙 Tipos de Veículos Disponíveis
 Econômicos: Carros compactos e eficientes, ideais para viagens urbanas e curtas distâncias.
 SUVs e 4x4: Para quem precisa de mais conforto, espaço ou planeja enfrentar terrenos mais difíceis.
